@@ -1,4 +1,4 @@
-# Cresated simpple portfolio using HTML,CSS and JS
+# Created simple portfolio using HTML,CSS and JS
 Hi im Abhishek prabha om a 1st sem student 
 this is my first project in web developing 
 i've created my basic portfolio using 
